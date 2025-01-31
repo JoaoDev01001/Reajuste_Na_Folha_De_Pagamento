@@ -204,6 +204,9 @@
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Total sem reajuste</value>
+  </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
@@ -215,6 +218,9 @@
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>194, 20</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Porcentual</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
